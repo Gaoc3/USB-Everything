@@ -6,7 +6,7 @@ Includes automation scripts, security tools, and system utilities — all in one
 > ⚠️ **Note:**  
 The `.exe` files are locked and cannot be run directly.  
 To use the tools, run the PowerShell script named `ZhanTool.ps1` from your terminal.  
-The locking mechanism is handled by a script called `loock`.
+The locking mechanism is handled by a script called `lock.ps1`.
 
 ## How to Run
 
