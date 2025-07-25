@@ -4,10 +4,9 @@ A multi-tool utility suite packed into a single USB.
 Includes automation scripts, security tools, and system utilities — all in one place.
 
 > ⚠️ **Note:**  
+The [`ZhanTool.ps1`](./ZhanTool.ps1) script is required to launch the project.  
 The `.exe` files are intentionally locked and cannot be executed directly.  
-To use the tools, run the PowerShell script `ZhanTool.ps1` from your terminal.  
-The locking is handled by a separate script named `loock`,
-> which is only responsible for securing the `.exe` files.
+Locking is handled by a separate script: [`loock.ps1`](./lock.ps1), which only secures the `.exe` files.
 
 ## How to Run
 
