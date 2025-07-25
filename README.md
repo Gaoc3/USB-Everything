@@ -3,10 +3,11 @@
 USB-Everything is a portable all-in-one toolkit stored on a USB drive, designed to simplify system setup, maintenance, and recovery. It includes various .exe programs and automation scripts for:
 
 - Fixing common Windows errors  
-- Activating Windows systems  
-- Downloading and installing GPU drivers  
-- Installing missing updates  
-- And more essential system utilities  
+- Windows activation  
+- Downloading and installing GPU and CPU drivers  
+- Installing Windows updates  
+- And more essential system utilities
+- Download apps offline
 
 All tools are centrally managed and launched through a custom PowerShell interface.
 
